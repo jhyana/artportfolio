@@ -1,2 +1,14 @@
+section{
+    height: 500px;
+    border: solid black 1px;
+    background-color: salmon;
+}
 
+.hero{
+    background-color: black;
+    height: 100vh;
+}
+footer {
+    height: 500 px;
+    background-color: orange;}
 
