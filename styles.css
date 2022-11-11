@@ -1,14 +1,13 @@
 section{
     height: 500px;
-    border: solid black 1px;
     background-color: salmon;
-}
+    border: solid black 1px;}
 
 .hero{
-    background-color: black;
-    height: 100vh;
-}
+    background-color: white;
+    height: 100vh;}
+
 footer {
-    height: 500 px;
+    height: 500px;
     background-color: green;}
 
